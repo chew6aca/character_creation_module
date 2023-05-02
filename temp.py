@@ -38,4 +38,3 @@ def main(duel_res: list[tuple]) -> str:
 
 # Тестовый вызов функции main.
 print(main(TEST_DATA))
-print(__annotations__)
